@@ -1,0 +1,1 @@
+import{e,j as a,ah as t,ai as n,aj as o,ak as r}from"./index-31KTgYJE.js";function j(){const[s,i]=e.useState(!1);return a.jsxs(a.Fragment,{children:[s&&a.jsx(t,{}),a.jsx(n,{}),a.jsx("div",{className:"content-page",children:a.jsx(o,{})}),a.jsx(r,{})]})}export{j as default};

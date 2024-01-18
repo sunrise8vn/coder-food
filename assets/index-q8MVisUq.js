@@ -1,0 +1,1 @@
+import{j as e}from"./index-31KTgYJE.js";function s(){return e.jsxs("div",{className:"d-flex justify-between bg-white",children:[e.jsx("h5",{children:"Chủ ví:"}),e.jsx("h3",{children:"CoderFood VN"})]})}export{s as default};
